@@ -1,3 +1,7 @@
+https://raw.githubusercontent.com/Bear9501/XYQTVBox/master/XYQ.json
+https://ghproxy.com/raw.githubusercontent.com/Bear9501/XYQTVBox/master/XYQ.json
+https://cdn.jsdelivr.net/gh/Bear9501/XYQTVBox@master/XYQ.json
+
 tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 1. tvbox配置：
 
