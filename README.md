@@ -5,31 +5,39 @@ https://cdn.jsdelivr.net/gh/Bear9501/XYQTVBox@master/XYQ.json
 tvbox配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 1. tvbox配置：
 
-（1）0820.json  较全面的源，jar的来源于WEWA（饭太硬）的jar包；
+（1）0820.json  在饭太硬配置的基础添加了若干优质点播源、直播线路和解析，适配影视、q版等绝大部分版本；
 
-（2）0826.json  完全来源于WEWA（饭太硬）的jar包和配置；
+（2）0826.json  完全来源于饭太硬的jar包和配置；
 
 （3）0827.json  jar包和配置来源于fongmi；
 
 （4）0828.json  jar包和配置来源于唐三；
 
-（5）js.json  资源来源于watson（猫爪）收集整理的道长drpy(js)资源；
+（5）js.json  资源来源于道长drpy(js)仓库；
 
 （6）xBPQ.json  xBPQ源，jar包和配置来源于菜妮丝；
 
 （7）XYQ.json  XYQ源，jar包和配置来源于香雅情。
 
-APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和q215613905版本（项目地址：https://github.com/q215613905/TVBoxOS ），FongMi版支持直播多线路，q215613905版支持直播回放。
+2. APP推荐:
 
-2. TVBox各路大佬配置（排名不分先后）：
+（1）FongMi版本  项目地址：https://github.com/FongMi/TV 支持直播多线路；
 
-（1）唐三：https://hutool.ml/tang
+（2）q215613905版本  项目地址：https://github.com/q215613905/TVBoxOS 支持直播回放；
+
+（3）takagen99版本  项目地址：https://github.com/takagen99/Box 界面美观；
+
+（4）皮皮虾版本  发布频道：https://t.me/pipixiawerun 支持弹幕。
+
+3. TVBox各路大佬配置（排名不分先后）：
+
+（1）唐三：https://t4.t48.repl.co/newtang.bmp
 
 （2）Fongmi：https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json
 
 （3）俊于：http://home.jundie.top:81/top98.json
 
-（4）饭太硬：http://饭太硬.ga/tv
+（4）饭太硬：http://饭太硬.top/tv
 
 （5）肥猫：http://我不是.肥猫.love:63/接口禁止贩卖
 
@@ -67,7 +75,7 @@ APP推荐使用FongMi版本（项目地址：https://github.com/FongMi/TV ）和
 
 （22）月光宝盒：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
 
-3. 随机轮换壁纸：
+4. 随机轮换壁纸：
 
 （1）https://tian.chuqiuyu.tk  自制横屏精美壁纸1
 
